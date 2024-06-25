@@ -1,0 +1,7 @@
+House-Price-Prediction/
+├── images/
+│   ├── boxplot_waterfront.png
+│   ├── regplot_sqft_above.png
+├── House_Price_Prediction.ipynb
+├── README.md
+├── requirements.txt
